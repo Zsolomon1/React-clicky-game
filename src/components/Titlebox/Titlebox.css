@@ -1,0 +1,17 @@
+.title {
+  width: 100%;
+  /*text-align: left;*/
+  font-size: 3rem;
+  /*text-decoration: underline;*/
+  color: black;
+  margin-bottom: 10px;
+  
+}
+
+.jumbotron{
+	opacity: .5;
+}
+
+h1{
+
+}

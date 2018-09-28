@@ -1,4 +1,5 @@
-# React-clicky-game
+# are-you-a-fan
 
-This is a React based game where the obective is to click on each image displayed and after each click, it changes its position on the 
-webpage. The objective is to not click the image only once each time without repeating. GOOD LUCK!!
+If you're tired of games not being interesting, here is an application of a memory game using your favorite heros. Each hero should be chosen only once. If you choose them twice the game will end. Good Luck.
+
+Technologies used: Bootstrap, React, heroku
